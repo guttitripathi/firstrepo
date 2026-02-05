@@ -1,3 +1,3 @@
 # firstrepo
-<br>This is my firsr repo </br>
+<br>This is my first repo </br>
 Author--Piyush
